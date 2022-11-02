@@ -1,0 +1,1 @@
+{"id":"d0f4b586-41e0-4a67-b992-5a2980b0c2f2","space":32168,"runtime":"nodejs14.x","name":"gp-server","path":"ghqrkx","project":"a0nr4i5q","account":"144798365827","region":"eu-central-1","deps":["cors@^2.8.5","dotenv@^16.0.3","express@^4.18.2","morgan@^1.10.0"],"envs":null,"public":true,"log_level":"off","cron":""}
